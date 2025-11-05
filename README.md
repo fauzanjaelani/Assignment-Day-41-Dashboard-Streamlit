@@ -1,3 +1,10 @@
+Dashboard sudah di Deploy di streamlit https://assignment-day-41-fauzanj.streamlit.app/ namun selalu error "ModuleNotFoundError", sudah dilakukan reboot > 3 kali dan library di requirements.txt sudah di update dengan pip freeze > requirements.txt namun tetap saja pada streamlit deploy tampilan selalu error:
+
+<img width="921" height="395" alt="image" src="https://github.com/user-attachments/assets/5dc47d79-3382-4b8b-a0eb-43fc72fc06c6" />
+
+
+Tapi jika di run di lokal bisa.
+
 Ini adalah tugas assignment membuat dashboard interaktif dari dataset_bee_cycle. Dashboard ini memiliki kolom KPI yaitu Total Sales, Total Orders, Total Quantity, Avg Order Value. 
 <img width="1053" height="232" alt="image" src="https://github.com/user-attachments/assets/6f954da6-9dae-43c4-a2af-22acf11e6cba" />
 
