@@ -1,0 +1,13 @@
+# Python Virtual Environment
+assignment41_env/
+.venv/
+venv/
+
+# macOS files
+.DS_Store
+
+# PyCharm files (jika menggunakan)
+.idea/
+
+# Streamlit cache
+.streamlit/
