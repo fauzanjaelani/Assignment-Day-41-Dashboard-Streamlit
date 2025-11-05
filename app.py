@@ -125,3 +125,4 @@ with st.expander("Lihat Data Transaksi"):
    st.dataframe(filtered_df)
 
 # Force Streamlit to reinstall dependencies
+# bikin runtime.txt untuk mengatasi error matplotlib saat deploy
