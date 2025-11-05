@@ -123,3 +123,5 @@ st.plotly_chart(fig3, use_container_width=True)
 # Tabel
 with st.expander("Lihat Data Transaksi"):
    st.dataframe(filtered_df)
+
+# Force Streamlit to reinstall dependencies
